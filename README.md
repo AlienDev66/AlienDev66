@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@alienshikadai-00acee?style=flat-square&labelColor=white&logo=twitter&logoColor=00acee&link=https://twitter.com/jmamadeu)](https://twitter.com/AlienShikadai66)
 [![Linkedin Badge](https://img.shields.io/badge/-Domingos%20Capitango-0e76a8?style=flat-square&labelColor=white&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/domingos-capitango)](https://www.linkedin.com/in/domingos-capitango)
 [![Gmail Badge](https://img.shields.io/badge/-p.capitango65@gmail.com-C71610?style=flat-square&labelColor=white&logo=Gmail&logoColor=C71610&link=mailto:p.capitango65@gmail.com)](mailto:p.capitango65@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/-p.capitango65@gmail.com-C71610?style=flat-square&labelColor=white&logo=YouTube&logoColor=C71610&link=https://www.youtube.com/channel/UCfmpM29TMAtNr8vUYEnz3mw?view_as=subscriber)](mailto:p.capitango65@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/-p.capitango65@gmail.com-C71610?style=flat-square&labelColor=white&logo=YouTube&logoColor=C71610&link=https://www.youtube.com/channel/UCfmpM29TMAtNr8vUYEnz3mw?view_as=subscriber)](https://www.youtube.com/channel/UCfmpM29TMAtNr8vUYEnz3mw?view_as=subscriber)
 
 
 
