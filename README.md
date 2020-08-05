@@ -1,7 +1,7 @@
 # Domingos Capitango
 
 [![Twitter Badge](https://img.shields.io/badge/-@alienshikadai-00acee?style=flat-square&labelColor=white&logo=twitter&logoColor=00acee&link=https://twitter.com/jmamadeu)](https://twitter.com/AlienShikadai66)
-[![Linkedin Badge](https://img.shields.io/badge/-Domingos Capitango-0e76a8?style=flat-square&labelColor=white&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/domingos-capitango)](https://www.linkedin.com/in/domingos-capitango)
+[![Linkedin Badge](https://img.shields.io/badge/-DomingosCapitango-0e76a8?style=flat-square&labelColor=white&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/domingos-capitango)](https://www.linkedin.com/in/domingos-capitango)
 [![Gmail Badge](https://img.shields.io/badge/-p.capitango65@gmail.com-C71610?style=flat-square&labelColor=white&logo=Gmail&logoColor=C71610&link=mailto:p.capitango65@gmail.com)](mailto:p.capitango65@gmail.com)
 
 
