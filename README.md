@@ -13,6 +13,12 @@
 
 Here are some ideas to get you started:
 
+## Overview
+<p><img src="https://komarev.com/ghpvc/?username=AlienDev66" alt="AlienDev66" /> </p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienDev66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlienDev66&show_icons=true" alt="AlienDev66-status" />
 
 
 - 🔭 I’m currently working on ...
