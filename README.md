@@ -8,17 +8,14 @@
 
 
 #### "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful".
+
+
 <!--
 **AlienDev66/AlienDev66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-## Overview
-<p><img src="https://komarev.com/ghpvc/?username=AlienDev66" alt="AlienDev66" /> </p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienDev66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlienDev66&show_icons=true" alt="AlienDev66-status" />
 
 
 - 🔭 I’m currently working on ...
@@ -30,3 +27,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Overview
+<p><img src="https://komarev.com/ghpvc/?username=AlienDev66" alt="AlienDev66" /> </p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienDev66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlienDev66&show_icons=true" alt="AlienDev66-status" />
