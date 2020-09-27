@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-p.capitango65@gmail.com-C71610?style=flat-square&labelColor=white&logo=Gmail&logoColor=C71610&link=mailto:p.capitango65@gmail.com)](mailto:p.capitango65@gmail.com)
 [![YouTube Badge](https://img.shields.io/badge/-Alien%20Shikadai-C71610?style=flat-square&labelColor=white&logo=YouTube&logoColor=C71610&link=https://www.youtube.com/channel/UCfmpM29TMAtNr8vUYEnz3mw?view_as=subscriber)](https://www.youtube.com/channel/UCfmpM29TMAtNr8vUYEnz3mw?view_as=subscriber)
 
-
+<img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/alien-first.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
 
 #### "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful".
 
