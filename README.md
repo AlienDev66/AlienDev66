@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/AlienDev66/count.svg" />
 </p>
 
-<h2 align="center">Some stats 💻</h2>
+<h2 align="center">Stats 💻</h2>
 <!-- status codes -->
 <a align="center" href="https://arshiamidos.github.io">
     <p align="center">
@@ -68,6 +68,5 @@ Here are some ideas to get you started:
     </p>
 </a>
 </p>
-
 
 <img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
