@@ -38,7 +38,6 @@ Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
-<p align="center">
 <!--START_SECTION:waka-->
 ```text
 JavaScript   8 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   47.33 % 
@@ -48,8 +47,6 @@ Other        12 mins         ▒░░░░░░░░░░░░░░░░
 JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 <!--END_SECTION:waka-->
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
