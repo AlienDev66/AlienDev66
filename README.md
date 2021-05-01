@@ -15,9 +15,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=aliendev66.aliendev66)
 
 <br />
-
+<!--START_SECTION:waka-->
+```text
 Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
+```
+<!--END_SECTION:waka-->
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@alienshikadai66](https://twitter.com/AlienShikadai66);
