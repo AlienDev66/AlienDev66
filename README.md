@@ -22,6 +22,8 @@ Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
 - 📫 How to reach me: [@alienshikadai66](https://twitter.com/AlienShikadai66);
 - 📝 [Resume](https://docs.google.com/document/d/1RS5syta56b2DaX64TlHX6I_kAV4X51_i-tOQ2c8q-_s/view)
 
+<img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
+
 ### This is very crazy <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30">
 
 <p style="margin-right: 90px"> 
@@ -33,8 +35,6 @@ Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
 <p style="margin-left: 20px"> 
   - I currently work with Javascript, nodeJS and React;
 </p>
-
-<img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
 
 📈 My GitHub Stats
 <p>
