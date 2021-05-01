@@ -36,16 +36,30 @@ Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   47.33 % 
-JSX          5 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.33 % 
-SCSS         3 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 % 
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-```
-<!--END_SECTION:waka-->
+[![Rocket Facebook](https://img.shields.io/static/v1?label=JavaScripto&message=Facebook&colorA=blue&color=black&logo=Rocket&logoColor=white)](https://www.facebook.com/groups/javascripto)
+<a href="https://www.linkedin.com/in/domingos-capitango-a8367019b/"><img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin"/></a>
+
+<img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
+
+### This is very crazy <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30">
+
+<p style="margin-right: 90px"> 
+  - I am passionate about technology and everything it provides;
+</p>
+<p style="margin-left: 20px"> 
+  - I am fascinated by Linux, every day a different distro 🤪; 
+</p>
+<p style="margin-left: 20px"> 
+  - I currently work with Javascript, nodeJS and React;
+</p>
+
+<p>
+  <a href="https://github.com/AlienDev66?tab=repositories">
+    <img  width="500" height="auto" alt="Wiliam's github stats" 
+          src="https://github-readme-stats.vercel.app/api?username=AlienDev66&show_icons=true&theme=algolia&count_private=true" />
+  </a>
+</p>
+
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
