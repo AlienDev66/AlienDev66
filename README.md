@@ -34,6 +34,8 @@ Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
   - I currently work with Javascript, nodeJS and React;
 </p>
 
+<img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
+
 📈 My GitHub Stats
 <p>
   <a href="https://github.com/AlienDev66?tab=repositories">
@@ -57,7 +59,6 @@ Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
