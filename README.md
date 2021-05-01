@@ -34,6 +34,7 @@ Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
   - I currently work with Javascript, nodeJS and React;
 </p>
 
+📈 My GitHub Stats
 <p>
   <a href="https://github.com/AlienDev66?tab=repositories">
     <img  width="500" height="auto" alt="Wiliam's github stats" 
@@ -70,10 +71,4 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 642 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlienDev66&theme=gotham" alt="AlienDev66" />
-
 
