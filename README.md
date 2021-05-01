@@ -18,8 +18,6 @@
 
 Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@alienshikadai66](https://twitter.com/AlienShikadai66);
@@ -49,6 +47,8 @@ Other        12 mins         ▒░░░░░░░░░░░░░░░░
 JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 <!--END_SECTION:waka-->
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
