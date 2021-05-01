@@ -15,6 +15,17 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=aliendev66.aliendev66)
 
 <br />
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   47.33 % 
+JSX          5 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.33 % 
+SCSS         3 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 % 
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+```
+<!--END_SECTION:waka-->
+
 <!--START_SECTION:waka-->
 ```text
 Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
