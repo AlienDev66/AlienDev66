@@ -65,6 +65,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlienDev66=true&theme=gotham" alt="AlienDev66" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlienDev66&theme=gotham" alt="AlienDev66" />
 
 
