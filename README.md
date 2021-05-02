@@ -33,7 +33,7 @@ Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught 
   - I am fascinated by Linux, every day a different distro 🤪; 
 </p>
 <p style="margin-left: 20px"> 
-  - I currently work with Javascript, nodeJS and React;
+  - I currently work with Javascript, Typescript, NodeJS and React(NextJS), React Native;
 </p>
 
 📈 My GitHub Stats
