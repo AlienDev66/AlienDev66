@@ -8,10 +8,6 @@
 <a href="https://www.linkedin.com/in/domingos-capitango-a8367019b/">
   <img align="left" alt="Domingos Capitango LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/lvi3lmcqcqwi65kia5km1eht4">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 <br />
 
 Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
