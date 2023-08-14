@@ -28,21 +28,6 @@
 
 --- 
 
-
-### ⚙️ My Projects 
-
-#### Full-Stack Projects :
-* [Intelli-Kanban](https://github.com/aliendev66/Intelli-Kanban)
-* [Web Tools](https://github.com/aliendev66/web-tools-gl01)
-* [Blogging Web APIs](https://github.com/aliendev66/Postgre-APIs-App)
-* [Inventory App](https://github.com/aliendev66/InventoryAppFrontend)
-* [UIET Connect](https://github.com/aliendev66/UietConnect)
-* [Meal Planner](https://github.com/aliendev66/meal-planner-API)
-* [Voting Management System](https://github.com/aliendev66/VotingManagmentSystem)
-* [ABitShort](https://github.com/aliendev66/linkshortner)
-* [File Share App](https://github.com/aliendev66/dlink-share)
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools 
