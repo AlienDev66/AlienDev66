@@ -1,68 +1,135 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.com/channels/790711900123562005/790711900123562007">
-  <img align="left" alt="Alien Space Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+</div>
+
+<h2 align="center">Hi 👋, I'm Domignos Capitango</h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+
+---
+### 👦 About Me
+- 👨‍💻 I'm a Tech Lover
+
+- 🔭 I’m currently working on **Mobile Development**
+
+- 🌱 I’m currently developing and learning **JavaScript, Node.js, React, React Native and other full-stack tools.**
+
+--- 
+
+### 🔥 My Stats 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=aliendev66&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=aliendev66&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=aliendev66&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/aliendev66/github-stats">
+<img src="https://aliendev66.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://aliendev66.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 </a>
-<a href="https://twitter.com/AlienShikadai66">
-  <img align="left" alt="Alien Shikadai | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/domingos-capitango-a8367019b/">
-  <img align="left" alt="Domingos Capitango LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliendev66&layout=compact&langs_count=10&theme=react) -->
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aliendev66&theme=react) -->
 
-Hi, I'm [Domingos ](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@alienshikadai66](https://twitter.com/AlienShikadai66);
-- 📝 [Resume](https://docs.google.com/document/d/1RS5syta56b2DaX64TlHX6I_kAV4X51_i-tOQ2c8q-_s/view)
-
-<img style="margin-right: 160px" align='right' src="https://media.giphy.com/media/TucS1JF3urHJI9mlGh/giphy.gif" width='220'>
-
-### This is very crazy <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30">
-
-<p style="margin-right: 90px"> 
-  - I am passionate about technology and everything it provides;
-</p>
-<p style="margin-left: 20px"> 
-  - I am fascinated by Linux, every day a different distro 🤪; 
-</p>
-<p style="margin-left: 20px"> 
-  - I currently work with Javascript, Typescript, NodeJS and React(NextJS), React Native;
-</p>
-
-📈 My GitHub Stats
-<p>
-  <a href="https://github.com/AlienDev66?tab=repositories">
-    <img  width="500" height="auto" alt="Wiliam's github stats" 
-          src="https://github-readme-stats.vercel.app/api?username=AlienDev66&show_icons=true&theme=algolia&count_private=true" />
-  </a>
-</p>
+--- 
 
 
-**Languages and Tools:**  
+### ⚙️ My Projects 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/reactnative.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+#### Full-Stack Projects :
+* [Intelli-Kanban](https://github.com/aliendev66/Intelli-Kanban)
+* [Web Tools](https://github.com/aliendev66/web-tools-gl01)
+* [Blogging Web APIs](https://github.com/aliendev66/Postgre-APIs-App)
+* [Inventory App](https://github.com/aliendev66/InventoryAppFrontend)
+* [UIET Connect](https://github.com/aliendev66/UietConnect)
+* [Meal Planner](https://github.com/aliendev66/meal-planner-API)
+* [Voting Management System](https://github.com/aliendev66/VotingManagmentSystem)
+* [ABitShort](https://github.com/aliendev66/linkshortner)
+* [File Share App](https://github.com/aliendev66/dlink-share)
 
 
+---
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+### :hammer_and_wrench: Languages and Tools 
 
-<a href="https://www.buymeacoffee.com/aliendev66" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091304-3b3e278f-b249-497d-a020-c13cba259e53.png" alt="NextJs" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226094099-12fc633e-af1f-474b-ae66-951b09881305.png" alt="workbench" width="40" height="40"/>&nbsp;   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>&nbsp;        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="vercel" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226092756-fa7e7ed6-bfe3-4c24-9c49-ad1acfc436d6.png" alt="render" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091590-d7d020ad-ce51-4497-bd7e-db7ed6e81589.png" alt="analytics" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226092991-4c479dbd-e253-4bec-ba2c-598206a7848d.png" alt="clarity" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091920-a6b75979-6f7f-427f-8a95-c6fe279929f2.png" alt="swagger" width="40" height="40"/>&nbsp;
+  <img src="https://svgshare.com/i/5xY.svg" alt="heroku" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
+   <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+</div>
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+---
 
+### 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 24 January 2023 - To: 12 August 2023
+
+Total Time: 306 hrs 33 mins
+
+TypeScript   127 hrs 22 mins ██████████▒░░░░░░░░░░░░░░   41.55 %
+C++          73 hrs 37 mins  ██████░░░░░░░░░░░░░░░░░░░   24.02 %
+JavaScript   61 hrs 21 mins  █████░░░░░░░░░░░░░░░░░░░░   20.02 %
+Markdown     11 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JSON         7 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+CSS          5 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+---
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://aliendev66.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://aliendev66.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://aliendev66.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/domingos-capitango-a8367019b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=domingosmanuelcapitango@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    
+</div>
+
+---
+
+### 👀 Visitor Info
+<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
