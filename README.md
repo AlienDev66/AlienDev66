@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm Domignos Capitango</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+<a href="https://app.daily.dev/alienDev66"><img src="https://api.daily.dev/devcards/aac48b2a7a21474ab4e40019df580f33.png?r=dlh" width="400" alt="Domingos Capitango's Dev Card"/></a>
 
 ---
 ### 👦 About Me
